@@ -1,10 +1,10 @@
-Package: uscensusblock
+Package: UScensusblockgroup20
 Type: Package
-Title: Block level data for uscensus
+Title: Blockgroup level data for uscensus
 Version: 0.1.0
 Author: Shreshtha Modi
 Maintainer: Shreshtha Modi <modishreshtha48@gmail.com>
-Description: Provides the access to redistricting files US Census 2020 at the block level for various states
+Description: Provides the access to redistricting files US Census 2020 at the block group level for various states and the shapefile
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
